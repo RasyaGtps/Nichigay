@@ -4,4 +4,4 @@ Alamat : Waru
 Sex : Male
 Age : 16
 Sekolah : SMK TELKOM SIODARJO
-
+Notes : AOWKWOK
