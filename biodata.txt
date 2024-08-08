@@ -3,4 +3,4 @@ Kelas Dtp : HACKER
 Alamat : Waru
 Sex : Male
 Age : 16
-Sekolah : SMK TELKOM SIDOARJO
+Sekolah : SMK TELKOM
